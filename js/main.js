@@ -9,7 +9,7 @@
 //displau all input as it is being entered
 //store previous total as start of next operation
 //clear button should clear all entries
-//should prevent invalid inputs
+//should prevent invalid input
 
 const keys = document.querySelector('.calculator-buttons');
     keys.addEventListener('click', event => {
